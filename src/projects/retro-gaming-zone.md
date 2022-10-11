@@ -2,7 +2,7 @@
 title: Retro Gaming Zone
 stack: Svelte & Firebase
 slug: retro-gaming-zone
-date: 2021-01-03 00:00:00 +0000
+date: 2022-01-03 00:00:00 +0000
 thumb: 	../images/thumbs/gaming.png
 featuredImg: ../images/featured/gaming-banner.png
 ---
